@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 引用类型自动注入
+     常用规则：
+        1、byName: 引用类型的属性名 ==Spring容器中（xml文件）<bean>的id，
+                    且数据类型是一致的，这样的容器中的bean，spring能够赋值给引用类型。
+        2、byType: 引用类型的数据类型和spring容器中的class属性是同源关系。
+            同源：1. Ref Type == bean class
+                 2. Ref Type & bean class 是父子关系
+                 3. Ref Type @ bean class是接口和实现类关系
+     -->
+    <bean id="myStudent" class="com.pengyiye.ba04.Student" autowire="byType">
+        <property name="age" value="20"/>
+        <property name="name" value="Bernie"/>
+<!--        <property name="school" ref="myschool"/>-->
+    </bean>
+
+    <bean id="myschool" class="com.pengyiye.ba04.School">
+        <property name="name" value="Eastern High"/>
+        <property name="address" value="Boston"/>
+    </bean>
+</beans>
