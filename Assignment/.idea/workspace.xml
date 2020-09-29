@@ -3,29 +3,46 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/char01-helloSpring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/src/main/java/com/pengyiye/services/impl/someServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/src/main/java/com/pengyiye/services/someService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char01-helloSpring/src/test/java/com/pengyiye/TestsomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/char02-di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba02/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba03/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/resources/ba01/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/resources/ba02/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/main/resources/ba03/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/test/java/com/pengyiye/MyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/test/java/com/pengyiye/MyTests02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char02-di/src/test/java/com/pengyiye/MyTests03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +52,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -52,7 +69,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1iA3nrpwenZYhFpWIiTROjyfYgr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -60,35 +79,54 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../char02-di/src/main/resources/ba03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba03" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba03" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pengyiye" />
+      <recent name="com.pengyiye.ba02" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.pengyiye.services.iml" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestsomeService.test04">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MyTests03.test03">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestsomeService.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char01-helloSpring" />
+    <configuration name="MyTests02.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char02-di" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pengyiye.*" />
@@ -96,31 +134,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.TestsomeService" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestsomeService.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char01-helloSpring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pengyiye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.TestsomeService" />
+      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests02" />
       <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestsomeService.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char01-helloSpring" />
+    <configuration name="MyTests02.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char02-di" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pengyiye.*" />
@@ -128,8 +150,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.TestsomeService" />
+      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests02" />
       <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTests03.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char02-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengyiye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pengyiye" />
+      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests03" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTests.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char02-di" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pengyiye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pengyiye" />
+      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,10 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTests03.test03" />
+        <item itemvalue="JUnit.MyTests02.test03" />
+        <item itemvalue="JUnit.MyTests02.test02" />
+        <item itemvalue="JUnit.MyTests.test01" />
         <item itemvalue="JUnit.TestsomeService.test04" />
-        <item itemvalue="JUnit.TestsomeService.test03" />
-        <item itemvalue="JUnit.TestsomeService.test02" />
-        <item itemvalue="JUnit.TestsomeService.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -168,42 +223,108 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601336738876</updated>
-      <workItem from="1601336739913" duration="1601000" />
+      <workItem from="1601336739913" duration="1823000" />
+      <workItem from="1601339649913" duration="5519000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="73" key="#Project_Structure" timestamp="1601336820406">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state x="328" y="73" key="#Project_Structure" timestamp="1601339827443">
+      <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601336820406" />
-    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1601337132512">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339827443" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1601342898746">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337132512" />
-    <state width="1638" height="250" key="GridCell.Tab.0.bottom" timestamp="1601338341826">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601342898746" />
+    <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340390336" />
+    <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601340262194">
+      <screen x="0" y="23" width="1680" height="944" />
     </state>
-    <state width="1638" height="250" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338341826" />
-    <state width="1638" height="250" key="GridCell.Tab.0.center" timestamp="1601338341825">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
+    <state width="1638" height="310" key="GridCell.Tab.0.bottom" timestamp="1601399032458">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="250" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338341825" />
-    <state width="1638" height="250" key="GridCell.Tab.0.left" timestamp="1601338341825">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state width="1638" height="250" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338353906" />
+    <state width="1638" height="310" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032458" />
+    <state width="1638" height="310" key="GridCell.Tab.0.center" timestamp="1601399032457">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="250" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338341825" />
-    <state width="1638" height="250" key="GridCell.Tab.0.right" timestamp="1601338341826">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state width="1638" height="250" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338353905" />
+    <state width="1638" height="310" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
+    <state width="1638" height="310" key="GridCell.Tab.0.left" timestamp="1601399032457">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="250" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338341826" />
+    <state width="1638" height="250" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338353905" />
+    <state width="1638" height="310" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
+    <state width="1638" height="310" key="GridCell.Tab.0.right" timestamp="1601399032457">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="250" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601338353906" />
+    <state width="1638" height="310" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
+    <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601399032459">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.1.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032459" />
+    <state width="1638" height="310" key="GridCell.Tab.1.center" timestamp="1601399032458">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.1.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032458" />
+    <state width="1638" height="310" key="GridCell.Tab.1.left" timestamp="1601399032458">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.1.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032458" />
+    <state width="1638" height="310" key="GridCell.Tab.1.right" timestamp="1601399032459">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.1.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032459" />
+    <state width="1638" height="310" key="GridCell.Tab.2.bottom" timestamp="1601399032460">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.2.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032460" />
+    <state width="1638" height="310" key="GridCell.Tab.2.center" timestamp="1601399032459">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.2.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032459" />
+    <state width="1638" height="310" key="GridCell.Tab.2.left" timestamp="1601399032459">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.2.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032459" />
+    <state width="1638" height="310" key="GridCell.Tab.2.right" timestamp="1601399032460">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state width="1638" height="310" key="GridCell.Tab.2.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032460" />
     <state x="378" y="153" key="Maven.ArtifactSearchDialog" timestamp="1601336965101">
       <screen x="0" y="23" width="1680" height="937" />
     </state>
     <state x="378" y="153" key="Maven.ArtifactSearchDialog/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601336965101" />
+    <state x="455" y="198" key="NewModule_or_Project.wizard" timestamp="1601339681707">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
+    <state x="328" y="73" key="SettingsEditor" timestamp="1601339916200">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
     <state x="474" y="114" key="new project wizard" timestamp="1601336811607">
       <screen x="0" y="23" width="1680" height="937" />
     </state>
@@ -212,9 +333,10 @@
       <screen x="0" y="23" width="1680" height="937" />
     </state>
     <state x="505" y="228" width="670" height="676" key="search.everywhere.popup/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337895646" />
-    <state x="492" y="182" key="spring file set editor" timestamp="1601337479265">
-      <screen x="0" y="23" width="1680" height="937" />
+    <state x="492" y="183" key="spring file set editor" timestamp="1601345061179">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="492" y="182" key="spring file set editor/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337479265" />
+    <state x="492" y="183" key="spring file set editor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601345061179" />
   </component>
 </project>

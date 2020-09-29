@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.pengyiye.ba03.Student" id="myStudent">
+        <constructor-arg name="myname" value="Sarah"/>
+        <constructor-arg name="myage" value="30"/>
+        <constructor-arg name="myschool" ref="mySchool"/>
+    </bean>
+
+    <bean id="mySchool" class="com.pengyiye.ba03.School">
+        <constructor-arg name="name" value="WPI"/>
+        <constructor-arg name="address" value="Boston"/>
+    </bean>
+
+    <bean id="myFile" class="java.io.File">
+        <constructor-arg name="parent" value="/Users/bernie/Documents/STUDY/Spring/char02-di"/>
+        <constructor-arg name="child" value="Readme.txt"/>
+    </bean>
+</beans>
