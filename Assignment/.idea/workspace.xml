@@ -23,17 +23,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/char04-di-anno.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba03/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba04/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba05/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTests03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTests04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTests05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTests06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/src/test/java/com/bernieye/myTests01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/target/classes/com/bernieye/ba01/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/target/classes/com/bernieye/ba01/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/target/test-classes/com/bernieye/myTest01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +85,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../char02-di/src/main/resources/ba05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,98 +98,39 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.pengyiye.services.iml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06" />
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba05" />
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba04" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba05" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bernieye" />
+      <recent name="com.bernieye.ba03" />
+      <recent name="com.bernieye.ba02" />
       <recent name="com.pengyiye" />
       <recent name="com.pengyiye.ba02" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba05" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba05" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba04" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba04" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba03" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pengyiye.services.iml" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.myTest01.test01">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.myTests06.test01">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTests03.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char02-di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pengyiye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests03" />
-      <option name="METHOD_NAME" value="test03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char02-di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pengyiye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests04" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests04.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char02-di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pengyiye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests04" />
-      <option name="METHOD_NAME" value="test04" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTests05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char02-di" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pengyiye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pengyiye" />
-      <option name="MAIN_CLASS_NAME" value="com.pengyiye.MyTests05" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="myTest01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="myTests01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="char04-di-anno" />
       <extension name="coverage">
         <pattern>
@@ -189,7 +139,71 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTest01" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTests03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char04-di-anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests03" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTests04.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char04-di-anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests04" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTests05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char04-di-anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests05" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="myTests06.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char04-di-anno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests06" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -198,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.myTest01.test01" />
-        <item itemvalue="JUnit.MyTests05.test01" />
-        <item itemvalue="JUnit.MyTests04.test01" />
-        <item itemvalue="JUnit.MyTests04.test04" />
-        <item itemvalue="JUnit.MyTests03.test03" />
+        <item itemvalue="JUnit.myTests06.test01" />
+        <item itemvalue="JUnit.myTests05.test01" />
+        <item itemvalue="JUnit.myTests04.test01" />
+        <item itemvalue="JUnit.myTests03.test01" />
+        <item itemvalue="JUnit.myTests01.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +230,7 @@
       <updated>1601336738876</updated>
       <workItem from="1601336739913" duration="1823000" />
       <workItem from="1601339649913" duration="5519000" />
+      <workItem from="1601487193318" duration="3627000" />
     </task>
     <servers />
   </component>
@@ -243,41 +258,41 @@
     </state>
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601410085322" />
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339827443" />
-    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601412480227">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1601513024054">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601412480227" />
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337132512" />
-    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601342898746" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601513024054" />
     <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340390336" />
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601340262194">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
-    <state width="1638" height="310" key="GridCell.Tab.0.bottom" timestamp="1601419716980">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom" timestamp="1601514984999">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="310" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601419716980" />
     <state width="1638" height="270" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162870" />
-    <state width="1638" height="310" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032458" />
-    <state width="1638" height="310" key="GridCell.Tab.0.center" timestamp="1601419716979">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="317" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514984999" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center" timestamp="1601514984998">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="310" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601419716979" />
     <state width="1638" height="270" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162869" />
-    <state width="1638" height="310" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
-    <state width="1638" height="310" key="GridCell.Tab.0.left" timestamp="1601419716979">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="317" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514984998" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left" timestamp="1601514984997">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="310" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601419716979" />
     <state width="1638" height="270" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162868" />
-    <state width="1638" height="310" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
-    <state width="1638" height="310" key="GridCell.Tab.0.right" timestamp="1601419716980">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="317" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514984997" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right" timestamp="1601514984998">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="310" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601419716980" />
     <state width="1638" height="270" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162869" />
-    <state width="1638" height="310" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601399032457" />
+    <state width="1638" height="317" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514984998" />
     <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601419716981">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

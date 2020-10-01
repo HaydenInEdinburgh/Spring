@@ -1,6 +1,7 @@
-package com.bernieye.ba01;
+package com.bernieye.ba02;
 
 import org.springframework.stereotype.Component;
+
 /*
 * @Component(value = "myStudent")
 *  == <bean id="myStudent" class="com.bernieye.ba01.Student"/>
@@ -10,7 +11,12 @@ import org.springframework.stereotype.Component;
 * */
 @Component("myStudent")//value --> unique value
 public class Student {
-
+    /*
+    * @Value:   set value for primary types
+    * Attributes: value<String>
+    * Position:   1. before the definition of the attributes.
+    *             2. before the setter
+    * */
     private String name;
     private int age;
 

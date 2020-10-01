@@ -11,5 +11,5 @@
         component scan: spring会便利base-package指定的包
             将包和子包中的所有类来使用。
     -->
-    <context:component-scan base-package="com.bernieye.ba01"/>
+    <context:component-scan base-package="com.bernieye.ba06"/>
 </beans>

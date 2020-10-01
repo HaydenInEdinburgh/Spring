@@ -1,6 +1,9 @@
-package com.bernieye.ba01;
+package com.bernieye.ba03;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
+
 /*
 * @Component(value = "myStudent")
 *  == <bean id="myStudent" class="com.bernieye.ba01.Student"/>
@@ -10,9 +13,18 @@ import org.springframework.stereotype.Component;
 * */
 @Component("myStudent")//value --> unique value
 public class Student {
-
+    /*
+    * @Value:   set value for primary types
+    * Attributes: value<String>
+    * Position:   1. before the definition of the attributes.
+    *             2. before the setter
+    * */
+    @Value("Bernie")
     private String name;
+    @Value("20")
     private int age;
+    @Autowired
+    private School school;
 
     public void setName(String name) {
         this.name = name;
@@ -22,11 +34,16 @@ public class Student {
         this.age = age;
     }
 
+    public void setSchool(School school) {
+        this.school = school;
+    }
+
     @Override
     public String toString() {
         return "Student{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", school=" + school +
                 '}';
     }
 }
