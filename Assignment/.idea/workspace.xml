@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="" />
+    <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char04-di-anno/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../char04-di-anno/ReadMe.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,19 +99,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.myTests06.test01">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="myTests01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="char04-di-anno" />
       <extension name="coverage">
@@ -210,6 +200,7 @@
       <workItem from="1601336739913" duration="1823000" />
       <workItem from="1601339649913" duration="5519000" />
       <workItem from="1601487193318" duration="4094000" />
+      <workItem from="1601574070970" duration="476000" />
     </task>
     <servers />
   </component>

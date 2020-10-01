@@ -12,12 +12,16 @@ Char04-di-anno:
     d.  use anno to create object, create container.
 
 3.  Annotations
-    a.  @Component
-    b.  @Value
-    c.  @Autowired
-    d.  @Qualifier
-    e.  @required
-    f.  @Resource
-    g.  @Repository
-    h.  @Service
-    i.  @Controller
+    a.  @Component      创建对象
+    b.  @Value          简单类型的属性赋值
+    c.  @Autowired      Spring框架中引用类型的赋值注解，支持byName, byType(default).
+    d.  @Resource       JDK中的注解，使用自动注入给引用类型赋值
+    e.  @Repository     创建Dao对象，用来访问数据库
+    f.  @Service        创建Service对象，处理业务逻辑，可以有事务功能
+    g.  @Controller     创建控制器对象，接受请求，显示处理结果
+
+4.  How to use annotation?
+    1. add the dependencies:    spring-context.
+    2. add the annotation to the class
+    3. add tag component scanner <context:component-scan base-package="package name">
+
