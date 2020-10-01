@@ -25,3 +25,6 @@ Char04-di-anno:
     2. add the annotation to the class
     3. add tag component scanner <context:component-scan base-package="package name">
 
+5.  解耦合
+    IoC 能够实现业务对象之间的解耦合，例如Service和dao对象之间的解耦合。
+    通过IoC，Spring才能控制各种对象，进一步实现业务逻辑。
