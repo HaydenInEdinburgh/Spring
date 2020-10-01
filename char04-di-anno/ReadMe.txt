@@ -12,4 +12,12 @@ Char04-di-anno:
     d.  use anno to create object, create container.
 
 3.  Annotations
-    a.  @
+    a.  @Component
+    b.  @Value
+    c.  @Autowired
+    d.  @Qualifier
+    e.  @required
+    f.  @Resource
+    g.  @Repository
+    h.  @Service
+    i.  @Controller
