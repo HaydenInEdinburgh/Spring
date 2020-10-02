@@ -29,14 +29,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/char05-AOP-leadin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/MyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/handler/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/SomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/impl/SomeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/util/ServiceTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +215,7 @@
       <workItem from="1601336739913" duration="1823000" />
       <workItem from="1601339649913" duration="5519000" />
       <workItem from="1601487193318" duration="4094000" />
-      <workItem from="1601574070970" duration="4247000" />
+      <workItem from="1601574070970" duration="5294000" />
     </task>
     <servers />
   </component>
