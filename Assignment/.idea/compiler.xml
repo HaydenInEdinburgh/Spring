@@ -9,12 +9,14 @@
         <module name="char04-di-anno" />
         <module name="char01-helloSpring" />
         <module name="char02-di" />
+        <module name="char06-AOP-AspectJ" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="char01-helloSpring" target="1.8" />
       <module name="char02-di" target="1.8" />
       <module name="char04-di-anno" target="1.8" />
+      <module name="char06-AOP-AspectJ" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

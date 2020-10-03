@@ -29,6 +29,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +45,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -86,9 +92,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.bernieye.service.impl" />
-      <recent name="com.pengyiye.services.iml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06" />
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba05" />
+      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba04" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba05" />
+      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba05" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bernieye" />
@@ -97,15 +106,13 @@
       <recent name="com.pengyiye" />
       <recent name="com.pengyiye.ba02" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba06" />
-      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba05" />
-      <recent name="$PROJECT_DIR$/../char04-di-anno/src/main/java/com/bernieye/ba04" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/resources/ba05" />
-      <recent name="$PROJECT_DIR$/../char02-di/src/main/java/com/pengyiye/ba05" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bernieye.ba01" />
+      <recent name="com.bernieye.service.impl" />
+      <recent name="com.pengyiye.services.iml" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyApp">
+  <component name="RunManager" selected="JUnit.MyTest01.test01">
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bernieye.MyApp" />
       <module name="char05-AOP-leadin" />
@@ -119,19 +126,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTests03.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char04-di-anno" />
+    <configuration name="MyTest01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char06-AOP-AspectJ" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -139,7 +148,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.myTests03" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest01" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -196,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest01.test01" />
         <item itemvalue="Application.MyApp" />
         <item itemvalue="JUnit.myTests06.test01" />
         <item itemvalue="JUnit.myTests05.test01" />
         <item itemvalue="JUnit.myTests04.test01" />
-        <item itemvalue="JUnit.myTests03.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +224,8 @@
       <workItem from="1601336739913" duration="1823000" />
       <workItem from="1601339649913" duration="5519000" />
       <workItem from="1601487193318" duration="4094000" />
-      <workItem from="1601574070970" duration="5294000" />
+      <workItem from="1601574070970" duration="5723000" />
+      <workItem from="1601746271632" duration="3851000" />
     </task>
     <servers />
   </component>
@@ -250,51 +260,52 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="74" key="#Project_Structure" timestamp="1601575951383">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="328" y="74" key="#Project_Structure" timestamp="1601748864342">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601410085322" />
+    <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601748864342" />
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339827443" />
     <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601575951383" />
-    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601578191608">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1601747943644">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578191608" />
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337132512" />
-    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601513024054" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601747943644" />
     <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340390336" />
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576173003" />
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601340262194">
       <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1601578884540">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1601750054708">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="270" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578884540" />
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162870" />
-    <state width="1638" height="317" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514991747" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601603266951" />
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601750054708" />
     <state width="1638" height="317" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601524047915" />
-    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1601578884539">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1601750054707">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="270" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578884539" />
-    <state width="1638" height="270" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162869" />
-    <state width="1638" height="317" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514991746" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601603266950" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601750054707" />
     <state width="1638" height="317" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601524047914" />
-    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1601578884538">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1601750054707">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="270" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578884538" />
-    <state width="1638" height="270" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162868" />
-    <state width="1638" height="317" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514991745" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601603266950" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601750054707" />
     <state width="1638" height="317" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601524047914" />
-    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1601578884540">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1601750054708">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state width="1638" height="270" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578884540" />
-    <state width="1638" height="270" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601411162869" />
-    <state width="1638" height="317" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601514991746" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601603266951" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601750054708" />
     <state width="1638" height="317" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601524047914" />
     <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601419716981">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -356,17 +367,19 @@
       <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
-    <state x="328" y="73" key="SettingsEditor" timestamp="1601576506510">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="328" y="73" key="SettingsEditor" timestamp="1601746790796">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601411945345" />
+    <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746790796" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576506510" />
-    <state x="474" y="115" key="new project wizard" timestamp="1601575931416">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="474" y="114" key="new project wizard" timestamp="1601746781697">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="474" y="123" key="new project wizard/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601411924270" />
     <state x="474" y="114" key="new project wizard/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601336811607" />
+    <state x="474" y="114" key="new project wizard/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746781697" />
     <state x="474" y="115" key="new project wizard/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601575931416" />
     <state x="505" y="248" width="670" height="741" key="search.everywhere.popup" timestamp="1601578437116">
       <screen x="0" y="23" width="1680" height="1027" />
