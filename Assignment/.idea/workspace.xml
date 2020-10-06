@@ -28,8 +28,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/char05-AOP-leadin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/char05-AOP-leadin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/handler/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/handler/MyInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/SomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/service/SomeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/impl/SomeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/service/impl/SomeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/util/ServiceTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/util/ServiceTools.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +92,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba06" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba05" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba04" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba03" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba02" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/../../CS61b/" />
+      <recent name="$PROJECT_DIR$/../" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bernieye.ba01" />
+      <recent name="com.bernieye.service.impl" />
+      <recent name="com.pengyiye.services.iml" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bernieye" />
@@ -100,10 +109,12 @@
       <recent name="com.pengyiye" />
       <recent name="com.pengyiye.ba02" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.bernieye.ba01" />
-      <recent name="com.bernieye.service.impl" />
-      <recent name="com.pengyiye.services.iml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba06" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba05" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba04" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba03" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba02" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MyTest06.test">
@@ -226,8 +237,16 @@
       <workItem from="1601902113751" duration="3697000" />
       <workItem from="1601913837899" duration="7000" />
       <workItem from="1601957103671" duration="3980000" />
-      <workItem from="1601962064782" duration="58000" />
+      <workItem from="1601962064782" duration="227000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated On 05/10/2020">
+      <created>1601962142932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601962142932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,13 +278,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated On 05/10/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated On 05/10/2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="74" key="#Project_Structure" timestamp="1601748864342">
+    <state x="328" y="74" key="#Project_Structure" timestamp="1601962279793">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601410085322" />
-    <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601748864342" />
+    <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962279793" />
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339827443" />
     <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601575951383" />
     <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601960613666">
@@ -376,10 +397,10 @@
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746790796" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576506510" />
-    <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962095199">
+    <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962149020">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state x="440" y="231" key="Vcs.Push.Dialog.v2/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962095199" />
+    <state x="440" y="231" key="Vcs.Push.Dialog.v2/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962149020" />
     <state x="474" y="114" key="new project wizard" timestamp="1601746781697">
       <screen x="0" y="23" width="1680" height="941" />
     </state>

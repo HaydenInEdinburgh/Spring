@@ -5,8 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../char01-helloSpring/char01-helloSpring.iml" filepath="$PROJECT_DIR$/../char01-helloSpring/char01-helloSpring.iml" />
       <module fileurl="file://$PROJECT_DIR$/../char02-di/char02-di.iml" filepath="$PROJECT_DIR$/../char02-di/char02-di.iml" />
       <module fileurl="file://$PROJECT_DIR$/../char04-di-anno/char04-di-anno.iml" filepath="$PROJECT_DIR$/../char04-di-anno/char04-di-anno.iml" />
-      <module fileurl="file://$PROJECT_DIR$/char05-AOP-leadin/char05-AOP-leadin.iml" filepath="$PROJECT_DIR$/char05-AOP-leadin/char05-AOP-leadin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/char06-AOP-AspectJ.iml" filepath="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/char06-AOP-AspectJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../char05-AOP-leadin/char05-AOP-leadin.iml" filepath="$PROJECT_DIR$/../char05-AOP-leadin/char05-AOP-leadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" filepath="$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" />
     </modules>
   </component>
 </project>
