@@ -107,13 +107,15 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MyTest06.test">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,6 +226,7 @@
       <workItem from="1601902113751" duration="3697000" />
       <workItem from="1601913837899" duration="7000" />
       <workItem from="1601957103671" duration="3980000" />
+      <workItem from="1601962064782" duration="58000" />
     </task>
     <servers />
   </component>
@@ -373,6 +376,10 @@
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746790796" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576506510" />
+    <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962095199">
+      <screen x="0" y="23" width="1680" height="941" />
+    </state>
+    <state x="440" y="231" key="Vcs.Push.Dialog.v2/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962095199" />
     <state x="474" y="114" key="new project wizard" timestamp="1601746781697">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
