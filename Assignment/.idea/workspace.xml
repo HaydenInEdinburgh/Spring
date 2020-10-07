@@ -29,13 +29,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/ReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/char05-AOP-leadin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/char05-AOP-leadin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/MyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/handler/MyInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/handler/MyInvocationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/SomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/service/SomeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/service/impl/SomeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/service/impl/SomeServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/char05-AOP-leadin/src/com/bernieye/util/ServiceTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char05-AOP-leadin/src/com/bernieye/util/ServiceTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba07/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba07/SomeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/MyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/SomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/SomeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/test/java/com/bernieye/MyTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/test/java/com/bernieye/MyTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/dao/StudentDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/target/classes/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +70,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="spring-beans.schema" />
+        <option value="mybatis-config" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -79,7 +105,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba06" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,7 +116,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -97,10 +124,12 @@
       <recent name="$PROJECT_DIR$/../../CS61b/" />
       <recent name="$PROJECT_DIR$/../" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.bernieye.ba01" />
-      <recent name="com.bernieye.service.impl" />
-      <recent name="com.pengyiye.services.iml" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08" />
+      <recent name="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba07" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba06" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba05" />
+      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba04" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bernieye" />
@@ -109,15 +138,13 @@
       <recent name="com.pengyiye" />
       <recent name="com.pengyiye.ba02" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba06" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba05" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba04" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba03" />
-      <recent name="$PROJECT_DIR$/../../CS61b/char06-AOP-AspectJ/char06-AOP-AspectJ/src/main/java/com/bernieye/ba02" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bernieye.service.impl" />
+      <recent name="com.bernieye.ba01" />
+      <recent name="com.pengyiye.services.iml" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest06.test">
+  <component name="RunManager" selected="JUnit.MyTest08.test">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -127,38 +154,6 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest02.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bernieye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest02" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyTest03.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bernieye.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest03" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,13 +206,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyTest07.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char06-AOP-AspectJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest07" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest08.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char06-AOP-AspectJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bernieye.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bernieye" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest08" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MyTest08.test" />
+        <item itemvalue="JUnit.MyTest07.test" />
         <item itemvalue="JUnit.MyTest06.test" />
         <item itemvalue="JUnit.MyTest05.test" />
         <item itemvalue="JUnit.MyTest04.test" />
-        <item itemvalue="JUnit.MyTest03.test" />
-        <item itemvalue="JUnit.MyTest02.test02" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +264,10 @@
       <workItem from="1601902113751" duration="3697000" />
       <workItem from="1601913837899" duration="7000" />
       <workItem from="1601957103671" duration="3980000" />
-      <workItem from="1601962064782" duration="227000" />
+      <workItem from="1601962064782" duration="310000" />
+      <workItem from="1601995357844" duration="1180000" />
+      <workItem from="1602040871834" duration="3008000" />
+      <workItem from="1602044650789" duration="1872000" />
     </task>
     <task id="LOCAL-00001" summary="Updated On 05/10/2020">
       <created>1601962142932</created>
@@ -289,47 +319,48 @@
     <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962279793" />
     <state x="328" y="73" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339827443" />
     <state x="328" y="74" key="#Project_Structure/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601575951383" />
-    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1601960613666">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1602045833544">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601578191608" />
+    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044264216" />
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601337132512" />
     <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601747943644" />
     <state x="653" y="206" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340390336" />
-    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576173003" />
+    <state x="653" y="205" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602045833544" />
     <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601960613666" />
-    <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601340262194">
-      <screen x="0" y="23" width="1680" height="944" />
+    <state x="578" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602041035825">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1601961939601">
+    <state x="578" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602041035825" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1602044488305">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601904270512" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488305" />
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753499" />
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817451" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601961939601" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1601961939600">
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394778" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1602044488304">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601904270512" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488304" />
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753498" />
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601961939600" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1601961939600">
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394777" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1602044488303">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601904270511" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488303" />
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753497" />
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817449" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601961939600" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1601961939601">
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394776" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1602044488304">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601904270512" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488304" />
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753499" />
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1601961939601" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394777" />
     <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601419716981">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -386,28 +417,35 @@
       <screen x="0" y="23" width="1680" height="937" />
     </state>
     <state x="378" y="153" key="Maven.ArtifactSearchDialog/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601336965101" />
-    <state x="455" y="198" key="NewModule_or_Project.wizard" timestamp="1601339681707">
-      <screen x="0" y="23" width="1680" height="944" />
-    </state>
-    <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
-    <state x="328" y="73" key="SettingsEditor" timestamp="1601746790796">
+    <state x="455" y="197" key="NewModule_or_Project.wizard" timestamp="1601995477498">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601411945345" />
-    <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746790796" />
+    <state x="455" y="197" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995477498" />
+    <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
+    <state x="328" y="77" key="SettingsEditor" timestamp="1602045595610">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602045074981" />
+    <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995479278" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
-    <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601576506510" />
+    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602045595610" />
+    <state x="328" y="78" key="SettingsEditor/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602042767207" />
     <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962149020">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
     <state x="440" y="231" key="Vcs.Push.Dialog.v2/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601962149020" />
-    <state x="474" y="114" key="new project wizard" timestamp="1601746781697">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state x="627" y="276" key="chooseDestDirectoryDialog" timestamp="1602045828990">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="627" y="276" key="chooseDestDirectoryDialog/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602045828990" />
+    <state x="474" y="122" key="new project wizard" timestamp="1602042755780">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="474" y="123" key="new project wizard/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1601411924270" />
     <state x="474" y="114" key="new project wizard/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601336811607" />
     <state x="474" y="114" key="new project wizard/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601746781697" />
     <state x="474" y="115" key="new project wizard/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1601575931416" />
+    <state x="474" y="122" key="new project wizard/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602042755780" />
     <state x="505" y="248" width="670" height="741" key="search.everywhere.popup" timestamp="1601578437116">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
