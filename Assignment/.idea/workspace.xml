@@ -29,15 +29,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/target/test-classes/com/bernieye/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/target/test-classes/com/bernieye/MyTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +132,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +142,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
       <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,10 +214,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MyTest.testServiceSelect" />
+        <item itemvalue="JUnit.MyTest" />
         <item itemvalue="JUnit.MyTest.testServiceSearch" />
         <item itemvalue="JUnit.MyTest.testServiceInsert" />
         <item itemvalue="JUnit.MyTest.testDaoInsert" />
-        <item itemvalue="JUnit.MyTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +242,7 @@
       <workItem from="1602040871834" duration="3008000" />
       <workItem from="1602044650789" duration="1872000" />
       <workItem from="1602076398851" duration="2880000" />
-      <workItem from="1602124560871" duration="2886000" />
+      <workItem from="1602124560871" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="Updated On 05/10/2020">
       <created>1601962142932</created>
@@ -312,38 +308,38 @@
     </state>
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
     <state x="578" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602041035825" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1602127448765">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1602128317185">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190772" />
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712848" />
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817451" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333842" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448765" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1602127448764">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602128317185" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127469110" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1602128317185">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190771" />
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333841" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448764" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1602127448763">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602128317185" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127469109" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1602128317185">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190771" />
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817449" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333840" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448763" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1602127448764">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602128317185" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127469109" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1602128317185">
+      <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190772" />
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333841" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448764" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602128317185" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127469110" />
     <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601419716981">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

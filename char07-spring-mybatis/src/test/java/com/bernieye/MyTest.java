@@ -27,10 +27,10 @@ public class MyTest {
         ApplicationContext tx = new ClassPathXmlApplicationContext(config);
         StudentDao dao = (StudentDao) tx.getBean("studentDao");
         Student student = new Student();
-        student.setAge(50);
-        student.setName("Billy");
-        student.setEmail("billy@gmail.com");
-        student.setId(1010);
+        student.setAge(23);
+        student.setName("Tom");
+        student.setEmail("tom@gmail.com");
+        student.setId(1018);
 
         int nums = dao.insertStudent(student);
         System.out.println("nums"+nums);
@@ -42,10 +42,10 @@ public class MyTest {
         ApplicationContext tx = new ClassPathXmlApplicationContext(config);
         StudentService service =(StudentService) tx.getBean("studentService");
         Student student = new Student();
-        student.setAge(40);
-        student.setName("Jackson");
-        student.setEmail("jackson@gmail.com");
-        student.setId(1020);
+        student.setAge(30);
+        student.setName("Tina");
+        student.setEmail("Tina@gmail.com");
+        student.setId(1013);
         int nums = service.addStudent(student);
         //spring和mybatis整合在一起使用 事务自动提交 无需执行SqlSession.commit();
         System.out.println("nums"+ nums);
