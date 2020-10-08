@@ -22,6 +22,6 @@ public class StudentServiceImpl implements StudentService {
     @Override
     public List<Student> queryStudents() {
         List<Student> students = studentDao.selectStudent();
-        return null;
+        return students;
     }
 }

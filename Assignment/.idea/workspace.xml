@@ -29,38 +29,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba07/MyAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba07/SomeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/MyAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/SomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/java/com/bernieye/ba08/SomeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/test/java/com/bernieye/MyTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/test/java/com/bernieye/MyTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/ReadMe.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/dao/StudentDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/mybatis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_21.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/char06-AOP-AspectJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char06-AOP-AspectJ/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char06-AOP-AspectJ/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/char07-spring-mybatis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/java/com/bernieye/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/AppTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +47,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="mybatis-config" />
         <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -144,7 +121,7 @@
       <recent name="com.pengyiye.services.iml" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyTest08.test">
+  <component name="RunManager" selected="JUnit.MyTest.testServiceSelect">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -158,8 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest04.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
+    <configuration name="MyTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -167,15 +144,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest04" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest05.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
+    <configuration name="MyTest.testDaoInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -183,15 +160,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest05" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
+      <option name="METHOD_NAME" value="testDaoInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest06.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
+    <configuration name="MyTest.testServiceInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -199,15 +176,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest06" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
+      <option name="METHOD_NAME" value="testServiceInsert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest07.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
+    <configuration name="MyTest.testServiceSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -215,15 +192,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest07" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
+      <option name="METHOD_NAME" value="testServiceSearch" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest08.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="char06-AOP-AspectJ" />
+    <configuration name="MyTest.testServiceSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="char07-spring-mybatis" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bernieye.*" />
@@ -231,8 +208,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bernieye" />
-      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest08" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="com.bernieye.MyTest" />
+      <option name="METHOD_NAME" value="testServiceSelect" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -240,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MyTest08.test" />
-        <item itemvalue="JUnit.MyTest07.test" />
-        <item itemvalue="JUnit.MyTest06.test" />
-        <item itemvalue="JUnit.MyTest05.test" />
-        <item itemvalue="JUnit.MyTest04.test" />
+        <item itemvalue="JUnit.MyTest.testServiceSelect" />
+        <item itemvalue="JUnit.MyTest.testServiceSearch" />
+        <item itemvalue="JUnit.MyTest.testServiceInsert" />
+        <item itemvalue="JUnit.MyTest.testDaoInsert" />
+        <item itemvalue="JUnit.MyTest.test01" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +245,8 @@
       <workItem from="1601995357844" duration="1180000" />
       <workItem from="1602040871834" duration="3008000" />
       <workItem from="1602044650789" duration="1872000" />
+      <workItem from="1602076398851" duration="2880000" />
+      <workItem from="1602124560871" duration="2886000" />
     </task>
     <task id="LOCAL-00001" summary="Updated On 05/10/2020">
       <created>1601962142932</created>
@@ -333,34 +312,38 @@
     </state>
     <state x="578" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601340262194" />
     <state x="578" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602041035825" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1602044488305">
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom" timestamp="1602127448765">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488305" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753499" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190772" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712848" />
     <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817451" />
-    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394778" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1602044488304">
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333842" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448765" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center" timestamp="1602127448764">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488304" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753498" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190771" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394777" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1602044488303">
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333841" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448764" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left" timestamp="1602127448763">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488303" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753497" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190771" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817449" />
-    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394776" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1602044488304">
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333840" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448763" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right" timestamp="1602127448764">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602044488304" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1601904753499" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602079190772" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.937@0.23.1680.937" timestamp="1602081712847" />
     <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601913817450" />
-    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602043394777" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602127333841" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602127448764" />
     <state width="1638" height="310" key="GridCell.Tab.1.bottom" timestamp="1601419716981">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -422,13 +405,13 @@
     </state>
     <state x="455" y="197" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995477498" />
     <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
-    <state x="328" y="77" key="SettingsEditor" timestamp="1602045595610">
+    <state x="328" y="77" key="SettingsEditor" timestamp="1602125291664">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602045074981" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995479278" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
-    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602045595610" />
+    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602125291664" />
     <state x="328" y="78" key="SettingsEditor/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602042767207" />
     <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962149020">
       <screen x="0" y="23" width="1680" height="941" />
