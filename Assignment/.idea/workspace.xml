@@ -29,12 +29,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
-      <change afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/test/java/com/bernieye/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/target/test-classes/com/bernieye/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/target/test-classes/com/bernieye/MyTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,19 +114,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MyTest.testServiceSelect">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="char07-spring-mybatis" />
       <extension name="coverage">
@@ -243,6 +225,7 @@
       <workItem from="1602044650789" duration="1872000" />
       <workItem from="1602076398851" duration="2880000" />
       <workItem from="1602124560871" duration="3641000" />
+      <workItem from="1602164755745" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="Updated On 05/10/2020">
       <created>1601962142932</created>
