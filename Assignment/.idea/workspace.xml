@@ -30,6 +30,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8bdc7eb1-be0a-4728-905f-16261bc05591" name="Default Changelist" comment="Updated On 05/10/2020">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char07-spring-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +226,7 @@
       <workItem from="1602044650789" duration="1872000" />
       <workItem from="1602076398851" duration="2880000" />
       <workItem from="1602124560871" duration="3641000" />
-      <workItem from="1602164755745" duration="580000" />
+      <workItem from="1602164755745" duration="1034000" />
     </task>
     <task id="LOCAL-00001" summary="Updated On 05/10/2020">
       <created>1601962142932</created>
@@ -384,13 +385,14 @@
     </state>
     <state x="455" y="197" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995477498" />
     <state x="455" y="198" key="NewModule_or_Project.wizard/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339681707" />
-    <state x="328" y="77" key="SettingsEditor" timestamp="1602125291664">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state x="328" y="77" key="SettingsEditor" timestamp="1602220295142">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.1027@0.23.1680.1027" timestamp="1602045074981" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.941@0.23.1680.941" timestamp="1601995479278" />
     <state x="328" y="73" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.944@0.23.1680.944" timestamp="1601339916200" />
     <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.947@0.23.1680.947" timestamp="1602125291664" />
+    <state x="328" y="77" key="SettingsEditor/-2560.23.2560.1057/0.23.1680.949@0.23.1680.949" timestamp="1602220295142" />
     <state x="328" y="78" key="SettingsEditor/-2560.23.2560.967/0.23.1680.1027@0.23.1680.1027" timestamp="1602042767207" />
     <state x="440" y="231" key="Vcs.Push.Dialog.v2" timestamp="1601962149020">
       <screen x="0" y="23" width="1680" height="941" />

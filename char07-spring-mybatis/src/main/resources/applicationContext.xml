@@ -6,7 +6,7 @@
     <!--把数据库的配置信息写在一个独立的文件，编译修改数据库的配置内容
         spring知道jdbc.properties文件的位置-->
     <context:property-placeholder location="classpath:jdbc.properties"/>
-    <!--声明DataSource-->
+    <!--声明DataSource 作用是连接数据库-->
     <bean id="myDataSource" class="com.alibaba.druid.pool.DruidDataSource"
           init-method="init" destroy-method="close">
         <property name="url" value="${jdbc.url}"/>
