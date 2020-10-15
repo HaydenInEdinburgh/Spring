@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+    <!--声明DataSource-->
+    <bean id="myDataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+        <property name="url" value="jdbc:mysql://localhost:3306/springbusiness?serverTimezone=UTC"/>
+        <property name="username" value="root"/>
+        <property name="password" value="123456789"/>
+        <property name="maxActive" value="20"/>
+    </bean>
+    <!--声明 mybatis提供的SqlSessionFactory类 -->
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="myDataSource"/>
+        <!-- mybatis 主配置文件的位置  -->
+        <property name="configLocation" value="classpath:mybatis.xml"/>
+
+    </bean>
+    <!-- 创建dao对象 使用SqlSession的getMapper(Student Dao) -->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"/>
+        <!-- 指定包名 包名是dao接口所在的包名
+            MapperScannerConfigurer会扫描这个包中的所有接口 把每个接口都执行
+            一次getMapper()方法 得到每个接口的dao对象
+            创建好的dao对象放入到spring的容器中。dao对象的默认名称是 接口名首字母小写-->
+        <property name="basePackage" value="com.bernieye.dao"/>
+    </bean>
+    <!-- Service Announcement-->
+    <bean id="buyService" class="com.bernieye.service.impl.BuyGoodsServiceImpl">
+        <property name="saleDao" ref="saleDao"/>
+        <property name="goodsDao" ref="goodsDao"/>
+    </bean>
+
+    <!-- 声明事务管理器 -->
+    <bean id="TransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="myDataSource"/>
+    </bean>
+    <!--声明业务方法的事务属性 隔离级别等
+        id:自定义名称，表示<tx:advice>中的配置内容-->
+    <tx:advice id="myAdvice" transaction-manager="TransactionManager">
+        <!-- tx:attributes 事务属性 -->
+        <tx:attributes>
+            <!-- tx:method 给具体的方法配置具体的事务属性
+                name: 完整方法名称，不带包 or 使用通配符号
+                propagation: 传播行为
+                isolation：隔离级别
+                rollback-for：你指定的异常类-->
+            <tx:method name="buy" propagation="REQUIRED" isolation="DEFAULT"
+                       rollback-for="java.lang.NullPointerException, com.bernieye.except.NotEnoughException"/>
+        </tx:attributes>
+    </tx:advice>
+
+
+</beans>
